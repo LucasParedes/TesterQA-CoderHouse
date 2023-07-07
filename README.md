@@ -1,4 +1,4 @@
-# TesterQA-CoderHouse
+# TesterQA - CoderHouse
 ✔️ Terminado✔️ 
 
 Este trabajo se encuentra finalizado, fue realizado como proyecto final para el curso "Tester QA Manual" de CoderHouse. El cual obtuve una note de 9
