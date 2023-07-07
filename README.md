@@ -5,7 +5,7 @@ Este trabajo se encuentra finalizado, fue realizado como proyecto final para el 
 📝Cualquier tipo de consejo, crítica o recomendación es bienvenido y estoy abierto a aceptarlo. Si tiene alguna pregunta o inquietud sobre el proyecto, no dude en ponerse en contacto conmigo utilizando cualquiera de los datos de contacto que figuran en mi perfil. Estaré encantado de responder.
 
 🔧Herramientas/Aplicaciones utilizados:
-. Google Drive
-. Paquete Office
+- Google Drive
+- Paquete Office
 - Excel
-. Archivos PDF
+- Archivos PDF
