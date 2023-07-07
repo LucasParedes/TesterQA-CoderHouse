@@ -7,5 +7,5 @@ Este trabajo se encuentra finalizado, fue realizado como proyecto final para el 
 🔧Herramientas/Aplicaciones utilizados:
 - Google Drive
 - Paquete Office
-. Excel
+  - Excel
 - Archivos PDF
